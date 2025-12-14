@@ -3,8 +3,10 @@ package com.thiago.exercises;
 import java.util.Scanner;
 
 public class Exercise02 implements Exercise{
-    // Write an algorithm that receives any number and prints on the screen whether the number is even or odd,
-    // and whether it is positive or negative.
+    /*
+    Write an algorithm that receives any number and prints on the screen whether the number is even or odd,
+    and whether it is positive or negative.
+    */
 
     @Override
     public void execute(Scanner scanner){

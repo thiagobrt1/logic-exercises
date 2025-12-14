@@ -21,7 +21,7 @@ public class Exercise10 implements Exercise{
         double total = 0;
 
         for(int i = 0; i < grades.length; i++){
-           total += grades[i];
+            total += grades[i];
         }
 
         System.out.printf("The average is %.2f%n", total / grades.length);

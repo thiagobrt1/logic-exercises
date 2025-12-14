@@ -3,8 +3,10 @@ package com.thiago.exercises;
 import java.util.Scanner;
 
 public class Exercise11 implements Exercise{
-    // Write an algorithm that reads four grades obtained by a student, calculates their average, and prints
-    // the student’s name and whether they passed or failed. A student passes with a final average of 7 or higher.
+    /*
+    Write an algorithm that reads four grades obtained by a student, calculates their average, and prints
+    the student’s name and whether they passed or failed. A student passes with a final average of 7 or higher.
+    */
 
     @Override
     public void execute(Scanner scanner){

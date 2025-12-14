@@ -3,8 +3,10 @@ package com.thiago.exercises;
 import java.util.Scanner;
 
 public class Exercise01 implements Exercise{
-    // Create an algorithm that reads the values of A, B, and C,
-    // then prints the sum of A and B and shows whether the sum is less than C.
+    /*
+    Create an algorithm that reads the values of A, B, and C,
+    then prints the sum of A and B and shows whether the sum is less than C.
+    */
 
     @Override
     public void execute(Scanner scanner){

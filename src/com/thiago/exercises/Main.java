@@ -15,7 +15,18 @@ public class Main{
                 new Exercise08(),
                 new Exercise09(),
                 new Exercise10(),
-                new Exercise11()
+                new Exercise11(),
+                new Exercise12(),
+                new Exercise13(),
+                new Exercise14(),
+                new Exercise15(),
+                new Exercise16(),
+                new Exercise17(),
+                new Exercise18(),
+                new Exercise19(),
+                new Exercise20(),
+                new Exercise21(),
+                new Exercise22()
         };
 
         Scanner scanner = new Scanner(System.in);
